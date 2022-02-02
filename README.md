@@ -1,5 +1,6 @@
 # Starter Web Repo
 This is simple project to learn about git commands and github.
+Adding a line for rebasing.
 
 This repository is for showing how Git and GitHub work
 
