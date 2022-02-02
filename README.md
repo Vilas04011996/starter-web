@@ -1,6 +1,6 @@
 # Starter Web Repo
 This is simple project to learn about git commands and github.
-Adding a line for rebasing.
+Adding a line for rebasing, more changes to myfeature.
 
 This repository is for showing how Git and GitHub work
 
