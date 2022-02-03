@@ -13,4 +13,5 @@ Sample website with plenty of files for demos
  Please Fork the repository and then issue pull request for review
  
 ### Copyright 
-2022 Git.Training
+
+2022 Git.Training All Rights Reserved
